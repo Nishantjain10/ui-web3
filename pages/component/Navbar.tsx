@@ -12,7 +12,7 @@ export const Navbar = () => {
     </div>   
      <div className="flex flex-row gap-x-16 font-syne text-base font-bold text-product-green">
         <div>FEATURES</div>
-        <div>FAQ'S</div>
+        <div>FAQS</div>
         <div>INDEXES</div>
     </div>   
      <div className="">
